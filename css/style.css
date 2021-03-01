@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+    text-align:center;
+    font-family: Merriweather;
+}
+.top-container{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    font-weight: bold;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+p{
+    color: #40514E;
+    font-weight: bold;
+    line-height: 2;
+    
+}
+ 
+.main-text{
+    width: 40%;
+    margin: auto;
+}
+ 
+.middle-container{
+    margin: 100px auto;
+}
+
+.bottom-container{
+    padding-top: 50px;
+    padding-bottom: 10px;
+    color: #11999E;
+    background-color: #66BFBF; 
+   
+}
+
+.bottom-container > a{
+    color: #11999E; 
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right:190px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom:300px;
+    left:190px;
+}
+
+.skills > .skill-row{
+    line-height: 2;
+    text-align: left;
+    margin: 100px auto;
+    width: 50%;
+
+}
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.web-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.my-img{
+    width: 15%;
+}
+
+hr{
+    margin: 100px auto;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    border-style: dotted none none none;
+    text-align: center;
+    width: 5%;
+}
+
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    color:#EAF6F6;
+    background-color: #11999E;
+    border-radius: 5px;
+    font-weight: bold;
+}   
+.footer{
+    margin: 50px auto;
+    color: #EAF6F6;
+}
+.footer-link{
+    margin: 20px;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+.line-gap-1{
+   margin-bottom: 50px;
+}
